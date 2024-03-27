@@ -1,6 +1,6 @@
 # secureUAll
 
-<div style="text-align: center"><img src="logos/logo edu_2_Prancheta 1.png" alt="secureUAll_logo" width="300"/></div>
+<div style="text-align: center"><img src="logos/black.png" alt="secureUAll_logo" width="300"/></div>
 
 This work focused on the development of a system, consisting of an enumeration system, an analysis system and a dashboard that allows to assess the current vulnerability risk of a host. Security issues will be detected and pointed out to be resolved using current state-of-the-art tools, with the work being focused on building the platform itself and implementing the functional logic to perform periodicals scraping.
 
